@@ -17,8 +17,8 @@
 
 ## 🚀 Sobre mim
 
-- 🏢 Fundador da **Negreiros Tech** — soluções web, automação e IA para PMEs
-- 🌍 Baseado em **Petrolina, PE** — atendo Petrolina, Juazeiro, Teresina e todo o Brasil (remoto)
+- 🏢 **Negreiros Tech** — soluções web, automação e IA para PMEs
+- 🌍 Situado em **Petrolina, PE** — atendo Petrolina, Juazeiro, Teresina e todo o Brasil (remoto)
 - 💡 Foco em: desenvolvimento web, automações, dashboards e consultoria técnica
 - 📬 Contato: [LinkedIn](https://www.linkedin.com/in/lindomar-lopes-de-negreiros-filho-4540b8220/) | (89) 981378359 | lindomarlfn@gmail.com
 
