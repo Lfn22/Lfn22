@@ -4,7 +4,7 @@
 
 # Lindomar Negreiros
 
-### Engenheiro de Software · Fundador da [Negreiros Tech](https://github.com/Lfn22)
+### Engenheiro de Software 
 
 *Construindo tecnologia que funciona para PMEs do interior do Nordeste.*
 
@@ -17,8 +17,8 @@
 
 ## 🚀 Sobre mim
 
-- 🏢 **Negreiros Tech** — soluções web, automação e IA para PMEs
-- 🌍 Situado em **Petrolina, PE** — atendo Petrolina, Juazeiro, Teresina e todo o Brasil (remoto)
+- 🏢 Soluções web, automação e IA para PMEs
+- 🌍 Situado em **São Raimundo Nonato - PI** — atendo Petrolina, Juazeiro, Teresina e todo o Brasil (remoto)
 - 💡 Foco em: desenvolvimento web, automações, dashboards e consultoria técnica
 - 📬 Contato: [LinkedIn](https://www.linkedin.com/in/lindomar-lopes-de-negreiros-filho-4540b8220/) | (89) 981378359 | lindomarlfn@gmail.com
 
@@ -73,6 +73,6 @@
 
 *"Tecnologia não precisa ser cara para ser eficiente."*
 
-**Negreiros Tech — Petrolina, PE**
+**Negreiros Tech — São Raimundo Nonato - PI**
 
 </div>
